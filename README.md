@@ -1,0 +1,2 @@
+# Kouluharjoitus
+Ensimmäinen repositorio
